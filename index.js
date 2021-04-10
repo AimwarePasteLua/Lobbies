@@ -1,4 +1,4 @@
-const adminIp = "::ffff:1.116.89.100"
+const adminIp = "::ffff:admin ip"
 const steam = new SteamAPI('token');
 
 
